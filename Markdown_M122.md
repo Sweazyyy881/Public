@@ -19,8 +19,11 @@ Danach musste ich VSC mit GitHUb verbinden. Als ich dies hatte wurde noch ein ".
 GitHub Repository Link: Sweazyyy881/Public
 
 Mit diesem Commands kann man die Datei auf GitHub wieder hochladen, wenn man an der Datei gearbeitet hat.
-Code
+
+Code:
 
 git add <dateiname.md>
+
 git commit -m "Markdown_M122.md"
+
 git push
